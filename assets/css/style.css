@@ -141,7 +141,15 @@ p {
 } */
 /* there was dupes of these codes so i commented them out since they are all work under the same thing */
 
-.search-engine-optimization {
+.blue-section-boxes {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+/* .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -166,9 +174,13 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
+} */
 
-.search-engine-optimization img {
+.blue-section-boxes img { 
+    max-height: 200px;
+
+}
+/* .search-engine-optimization img {
     max-height: 200px;
 }
 
@@ -178,9 +190,13 @@ p {
 
 .social-media-marketing img {
     max-height: 200px;
-}
+} */
 
-.search-engine-optimization h2 {
+.blue-section-boxes h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/* .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -193,7 +209,7 @@ p {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
+} */
 
 footer {
     padding: 30px;
