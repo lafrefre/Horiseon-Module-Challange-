@@ -107,38 +107,39 @@ p {
 } */
 /* i merged the classes together to make it be ran by one power ehheheh */
 
-.benefit-lead h3 {
+.benefit-rule h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
+/* .benefit-rule h3 {
+    margin-bottom: 10px;
+    text-align: center;
+} */
+
+.benefit-rule h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
+/* .benefit-rule img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+} */
 
-.benefit-lead img {
+.benefit-rule img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
+/* .benefit-rule img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
+} */
+/* there was dupes of these codes so i commented them out since they are all work under the same thing */
 
 .search-engine-optimization {
     margin-bottom: 20px;
