@@ -87,7 +87,11 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit-rule {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+/* .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -100,7 +104,8 @@ p {
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
-}
+} */
+/* i merged the classes together to make it be ran by one power ehheheh */
 
 .benefit-lead h3 {
     margin-bottom: 10px;
@@ -199,3 +204,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/* i moved the divs and changed them to footer becasue it needed to have a proper footer. */
